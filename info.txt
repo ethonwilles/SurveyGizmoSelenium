@@ -1,0 +1,4 @@
+METHOD: Form
+
+Information Needed:
+    go to https://app.surveygizmo.com/account and sign in. then send rivn your Account ID and the email address you used to create the account.
